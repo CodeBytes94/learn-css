@@ -9,6 +9,7 @@ You can find all the code from our Learn CSS series here!
 
 ## Styling
 | Lesson | Description | Link
+| :---: | ----- | --- |
 | 01 | Colours | [View Code](https://github.com/CodeBytes94/learn-css/blob/main/styling/colours/colours.html)
 
 For full tutorials visit our webpage or YouTube channel!
