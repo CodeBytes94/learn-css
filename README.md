@@ -1,10 +1,15 @@
 # Learn CSS with CodeBytes
 You can find all the code from our Learn CSS series here!
 
+## Fundamentals
 | Lesson | Description | Link
 | :---: | ----- | --- |
 | 01 | Introduction to CSS | [View Code](https://github.com/CodeBytes94/learn-css/blob/main/the-fundamentals/introduction-to-css/introduction-to-css.html)
 | 02 | Inline, Internal & External CSS | [View Code](https://github.com/CodeBytes94/learn-css/tree/main/the-fundamentals/inline-internal-external-css)
+
+## Styling
+| Lesson | Description | Link
+| 01 | Colours | [View Code](https://github.com/CodeBytes94/learn-css/blob/main/styling/colours/colours.html)
 
 For full tutorials visit our webpage or YouTube channel!
 - Website: https://codebytesized.com/
