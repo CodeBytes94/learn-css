@@ -1,7 +1,7 @@
 # Learn CSS with CodeBytes
 You can find all the code from our Learn CSS series here!
 
-## Fundamentals
+## The Fundamentals
 | Lesson | Description | Link
 | :---: | ----- | --- |
 | 01 | Introduction to CSS | [View Code](https://github.com/CodeBytes94/learn-css/blob/main/the-fundamentals/introduction-to-css/introduction-to-css.html)
