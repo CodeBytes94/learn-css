@@ -6,6 +6,7 @@ You can find all the code from our Learn CSS series here!
 | :---: | ----- | --- |
 | 01 | Introduction to CSS | [View Code](https://github.com/CodeBytes94/learn-css/blob/main/the-fundamentals/introduction-to-css/introduction-to-css.html)
 | 02 | Inline, Internal & External CSS | [View Code](https://github.com/CodeBytes94/learn-css/tree/main/the-fundamentals/inline-internal-external-css)
+| 03 | Comments | [View Code](https://github.com/CodeBytes94/learn-css/blob/main/the-fundamentals/comments/comments.html)
 
 ## Styling
 | Lesson | Description | Link
