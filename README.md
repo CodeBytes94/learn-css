@@ -15,7 +15,7 @@ You can find all the code from our Learn CSS series here!
 | 02 | Backgrounds | [View Code](https://github.com/CodeBytes94/learn-css/tree/main/styling/backgrounds)
 
 For full tutorials visit our webpage or YouTube channel!
-- Website: https://codebytesized.com/
+- Website:  https://codebytes.blog/
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvLvjQOIa9GUX3pHhFXMbA21
 
 Follow us for more web development inspiration!
