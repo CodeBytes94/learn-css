@@ -16,6 +16,11 @@ You can find all the code from our Learn CSS series here!
 | 02 | Backgrounds | [View Code](https://github.com/CodeBytes94/learn-css/tree/main/styling/backgrounds)
 | 03 | Borders | [View Code](https://github.com/CodeBytes94/learn-css/blob/main/styling/borders/borders.html)
 
+## Positioning
+| Lesson | Description | Link
+| :---: | ----- | --- |
+| 01 | The Position Property | [View Code](https://github.com/CodeBytes94/learn-css/tree/main/positioning/the-position-property)
+
 For full tutorials visit our webpage or YouTube channel!
 - Website:  https://codebytes.blog/
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvLvjQOIa9GUX3pHhFXMbA21
