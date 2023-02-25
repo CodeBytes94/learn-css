@@ -21,8 +21,7 @@ You can find all the code from our Learn CSS series here!
 | :---: | ----- | --- |
 | 01 | The Position Property | [View Code](https://github.com/CodeBytes94/learn-css/tree/main/positioning/the-position-property)
 
-For full tutorials visit our webpage or YouTube channel!
-- Website:  https://codebytes.blog/
+For full tutorials visit our YouTube channel!
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvLvjQOIa9GUX3pHhFXMbA21
 
 Follow us for more web development inspiration!
